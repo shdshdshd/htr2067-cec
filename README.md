@@ -21,7 +21,7 @@ The workaround has been tested with the following configuration:
 
 ## Usage
 
-[python ./main.py]
+```# python ./main.py```
 
 ## How It Works
 
